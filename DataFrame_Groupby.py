@@ -1,6 +1,8 @@
 # -*- coding: utf-8 -*-
 __author__ = 'EStolyarova'
 
+print("blajlfjlsfjslfdskj")
+
 import pandas as pd
 import numpy as np
 

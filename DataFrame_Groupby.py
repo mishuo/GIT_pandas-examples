@@ -26,7 +26,7 @@ mergeRatings = pd.merge(pd.merge(users, ratings), movies)
 
 
 def cloneDF(df):
-    return pd.DataFrame(np.copy(df.values), df.index.copy(), df.columns.copy())
+    return "rien de chez rien"
 
 
 # Show Films with more votes. (groupby + sorted)

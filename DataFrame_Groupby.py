@@ -23,10 +23,7 @@ ratings = pd.read_csv('dataSet/ratings.txt', engine='python',
 mergeRatings = pd.merge(pd.merge(users, ratings), movies)
 
 # Clone DataFrame
-
-
 def cloneDF(df):
-
     return "rien de chez rien"
 
 # Show Films with more votes. (groupby + sorted)

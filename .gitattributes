@@ -1,6 +1,2 @@
-<<<<<<< HEAD
 dataSet/ filter=lfs diff=lfs merge=lfs -text
-=======
-dataSet filter=lfs diff=lfs merge=lfs -text
->>>>>>> eb1920727143087554cb75690ebb5bbbe88d0001
-*.txt filter=lfs diff=lfs merge=lfs -text
+

@@ -23,8 +23,6 @@ ratings = pd.read_csv('dataSet/ratings.txt', engine='python',
 mergeRatings = pd.merge(pd.merge(users, ratings), movies)
 
 # Clone DataFrame
-
-
 def cloneDF(df):
     return "j'ai changé d'avis"
 
